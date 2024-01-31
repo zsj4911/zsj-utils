@@ -1,0 +1,15 @@
+{
+  "name": "zsj-utils",
+  "version": "1.0.0",
+  "description": "验证JavaScript中的常用类型, 工具类方法",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git-cz",
+    "release": "release-it"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
