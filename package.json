@@ -1,6 +1,6 @@
 {
   "name": "zsj-utils",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "验证JavaScript中的常用类型, 工具类方法",
   "main": "src/index.js",
   "type": "module",
